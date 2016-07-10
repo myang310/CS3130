@@ -3,7 +3,7 @@
 #include "node.h"
 #include <cstdlib>
 
-Node::Node(int data) {
+Node::Node(std::string data) {
 	this->data = data;
 	left = NULL;
 	right = NULL;

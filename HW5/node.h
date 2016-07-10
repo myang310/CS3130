@@ -3,12 +3,14 @@
 #ifndef NODE_H
 #define NODE_H
 
+#include <string>
+
 struct Node {
-	int data;
+	std::string data;
 	Node* left;
 	Node* right;
 
-	Node(int data);
+	Node(std::string data);
 };
 
 #endif
