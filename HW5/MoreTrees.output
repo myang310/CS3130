@@ -1,0 +1,88 @@
+Person: Richard
+1. Father: Bob
+2. Children: None None
+3. Brother: Brian
+4: Oldest Brother: Brian
+5: Youngest Brother: Himself
+6. Oldest Child: None
+7. Youngest Child: None
+8. Uncle: Dan
+9. Grandfather: Jones
+
+Person: Bill
+1. Father: Jake
+2. Children: None None
+3. Brother: None
+4: Oldest Brother: Himself
+5: Youngest Brother: None
+6. Oldest Child: None
+7. Youngest Child: None
+8. Uncle: None
+9. Grandfather: Dan
+
+Person: Richard
+1. Father: Jake
+2. Children: Roy Dan
+3. Brother: Leon
+4: Oldest Brother: Leon
+5: Youngest Brother: Himself
+6. Oldest Child: Roy
+7. Youngest Child: Dan
+8. Uncle: Kim
+9. Grandfather: Leeroy
+
+Person: Roy
+1. Father: Richard
+2. Children: None None
+3. Brother: Dan
+4: Oldest Brother: Himself
+5: Youngest Brother: Dan
+6. Oldest Child: None
+7. Youngest Child: None
+8. Uncle: Leon
+9. Grandfather: Jake
+
+Person: Tom
+1. Father: Oster
+2. Children: Troy Drake
+3. Brother: None
+4: Oldest Brother: Himself
+5: Youngest Brother: None
+6. Oldest Child: Troy
+7. Youngest Child: Drake
+8. Uncle: Luke
+9. Grandfather: David
+
+Person: Mort
+1. Father: Luke
+2. Children: None None
+3. Brother: None
+4: Oldest Brother: Himself
+5: Youngest Brother: None
+6. Oldest Child: None
+7. Youngest Child: None
+8. Uncle: Oster
+9. Grandfather: David
+
+Person: Jim
+1. Father: Luis
+2. Children: None None
+3. Brother: Troy
+4: Oldest Brother: Troy
+5: Youngest Brother: Himself
+6. Oldest Child: None
+7. Youngest Child: None
+8. Uncle: Ron
+9. Grandfather: Michael
+
+Person: Matt
+1. Father: Ron
+2. Children: None None
+3. Brother: Justin
+4: Oldest Brother: Himself
+5: Youngest Brother: Justin
+6. Oldest Child: None
+7. Youngest Child: None
+8. Uncle: Luis
+9. Grandfather: Michael
+
